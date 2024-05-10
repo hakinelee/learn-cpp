@@ -1,0 +1,5 @@
+*.bat
+*.cpp__tests
+*.exe
+book/
+test/
